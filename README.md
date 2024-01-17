@@ -3,4 +3,4 @@ A fruit slicing game made using HTML, CSS and JQuery. Basically, when we click o
 
 ![image](https://github.com/Xevelyn17/Fruit-Slicing-Game/assets/156883894/fa663e32-18be-4187-8146-1148c3e6ead6)
 
-The site is live at- 
+The site is live at- https://xevelyn17.github.io/Fruit-Slicing-Game/
